@@ -1,9 +1,12 @@
 // Name: Johar Samrao
 // ID: 180
-// Assignment 1
+// Assignment 2
 // Simple List 
 
-package assign2;
+
+package cse360assign2;
+
+//GITHUB LINK: https://github.com/jsamrao/assign2
 
 public class SimpleList {
 
